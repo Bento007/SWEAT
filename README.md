@@ -10,3 +10,4 @@ Description:
 	Merge back
 	
 	WOOOO - Will
+	This readme is belonging to us. Copy that - Sergey
